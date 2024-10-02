@@ -89,6 +89,6 @@ I follow modern development workflows, utilizing **Agile/Scrum methodologies** a
 ---
 
 
-### ⚡️ GitHub Stats
+//### ⚡️ GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kaido-prog&show_icons=true&theme=radical)
+//![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kaido-prog&show_icons=true&theme=radical)
